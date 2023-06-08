@@ -1,4 +1,4 @@
-# ecommerce-shop
+
 # ecommerce-shop
 E-commerce shopping cart application developed with ReactJS and ContextAPI for state managment. This saves prop drilling with useState and is easier to manage state on lager projects.
 
